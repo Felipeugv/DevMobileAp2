@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">comprarcs2</string>
+    <string name="compra_perfeita">Compra perfeita!</string>
+    <string name="todo">TODO</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="compra_do_round">COMPRA DO ROUND</string>
+    <string name="ct">CT</string>
+    <string name="tr">TR</string>
+    <string name="em_qual_lado_voc_est">Em qual lado você está?</string>
+    <string name="CT">Ct</string>
+    <string name="TR">TR</string>
+</resources>
